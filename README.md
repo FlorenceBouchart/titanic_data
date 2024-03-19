@@ -1,5 +1,5 @@
 # Instructions d'exécution :
-Le fichier csv appelé 'Titanic_data.csv' et celui ci 'tp_titanic.ipynb' doivent être stockés dans un même dossier.
+Le fichier csv appelé 'Titanic_data.csv' et celui ci 'tp_titanic.ipynb' doivent être stockés dans un même dossier. Ouvrir et exécuter le fichier 'tp_titanic.ipynb' pour visualiser l'analyse.
 
 ## Préambule
 En 1912, le Titanic a coulé après avoir percuté un iceberg.
